@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 I'm Kyle, a rising senior studying computer science at the University of Notre Dame. 
 
