@@ -4,7 +4,7 @@ I'm Kyle, a rising senior studying computer science at the University of Notre D
 
 - Current SWE intern on data systems team @ Gecko Robotics
 - Previous SWE intern at iCapital and colonist.io
-- I love cooking, playing Catan, doing origami, and watching my LA Clippers let me down for umpteenth year in a row.
+- I love cooking, playing Catan, doing origami, and watching my LA Clippers let me down for the umpteenth year in a row.
 
 Learn more about me @ [kylephan5.github.io](https://kylephan5.github.io/) or email me @ kphan2@nd.edu!
 <!--
