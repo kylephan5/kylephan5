@@ -1,6 +1,6 @@
 ## Hi 👋
 
-I'm Kyle, a rising senior studying computer science at the University of Notre Dame. 
+I'm Kyle, a senior studying computer science at the University of Notre Dame. 
 
 - Incoming SWE at Gecko Robotics 🤠
 - Previous SWE intern at Gecko Robotics, iCapital, and colonist.io
