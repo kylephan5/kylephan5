@@ -1,8 +1,8 @@
 ## Hi 👋
 
-I'm Kyle, a senior studying computer science at the University of Notre Dame. 
+I'm Kyle! Here's a little bit about me
 
-- Incoming SWE at Gecko Robotics 🤠
+- SWE at Gecko Robotics 🤠
 - Previous SWE intern at Gecko Robotics, iCapital, and colonist.io
 - I love cooking, playing Catan, doing origami, and watching my LA Clippers let me down for the umpteenth year in a row.
 
