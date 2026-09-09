@@ -2,6 +2,7 @@
 
 I'm Kyle! Here's a little bit about me
 
+- building [ballknowerz](ballknowerz.com)
 - SWE at Gecko Robotics 🤠
 - Previous SWE intern at Gecko Robotics, iCapital, and colonist.io
 - I love cooking, playing Catan, doing origami, and watching my LA Clippers let me down for the umpteenth year in a row.
